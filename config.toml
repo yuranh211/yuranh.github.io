@@ -1,4 +1,4 @@
-baseURL = 'https://lillianwho.com/'
+baseURL = 'https://yuranh-github-io.vercel.app/'
 languageCode = 'zh-CN'
 timeZone = 'Asia/Shanghai'
 title = 'Yuranh'
@@ -18,29 +18,25 @@ rssLimit = 5
 
 [menu]
   [[menu.main]]
-  name="读书"
-  url="/posts/reading/"
+  name="博客"
+  url="/posts/博客/"
   weight="1"
   [[menu.main]]
-  name="Obsidian"
-  url="/posts/obsidian/"
+  name="评论"
+  url="/posts/评论/"
   weight="2"
-  [[menu.main]]
-  name="闲聊"
-  url="/posts/chat/"
-  weight="3"
   [[menu.main]]
   name="归档"
   url="/archives/"
-  weight="4"
+  weight="3"
   [[menu.main]]
   name="关于我"
   url="/about/"
-  weight="6"
+  weight="4"
   [[menu.main]]
   name="🔍"
   url="/search/"
-  weight="6"
+  weight="5"
 
 
 
@@ -82,6 +78,6 @@ rssLimit = 5
   baseName = "atom"
 
 [params.twikoo]
-	enable = true
+	enable = false
   visitor = true
   

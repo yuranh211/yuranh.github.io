@@ -1,4 +1,4 @@
 ---
-title: "阅读"
+title: "博客"
 slug: "reading"
 ---
