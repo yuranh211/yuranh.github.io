@@ -1,6 +1,6 @@
 ---
 title: '关于我'
-slug: about
+slug: 'about'
 date: 2024-11-27 19:57:45
 layout: 'posts'
 hideInList: false
