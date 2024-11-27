@@ -19,11 +19,11 @@ rssLimit = 5
 [menu]
   [[menu.main]]
   name="博客"
-  url="/posts/博客/"
+  url="/posts/blog/"
   weight="1"
   [[menu.main]]
   name="评论"
-  url="/posts/评论/"
+  url="/posts/argue/"
   weight="2"
   [[menu.main]]
   name="归档"
