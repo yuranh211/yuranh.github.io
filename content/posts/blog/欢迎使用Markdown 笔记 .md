@@ -1,5 +1,5 @@
 ---
-title: Markdown 简介
+title: Markdown
 slug: Markdown
 description: 这是利用 utools内置的 Markdown 编辑器生成的
 ---
