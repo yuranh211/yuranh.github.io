@@ -13,7 +13,7 @@ paginate =  10
 rssLimit = 5
 
 [permalinks]
-  posts = "/posts/:filename/"
+  posts = "/posts/:slug/"
   tags = "/tags/:slug/"
 
 [menu]
