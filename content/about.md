@@ -11,4 +11,4 @@ date: 2024-11-26
 
 [推特](https://x.com/bxbzjzllan898)
 
-邮箱：yuranh21@gmail.com
+邮箱：yuranh211@gmail.com
