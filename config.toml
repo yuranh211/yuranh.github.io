@@ -56,8 +56,8 @@ rssLimit = 5
   DateFormatSingle = "2006-01-02"
   ReadMore = "阅读全文"
   
-  description = "生命就是反重力的过程"
-	keywords = "博客、app、折腾、生活、阅读、自律"
+  description = "我要话要说！"
+	keywords = "博客、评论"
  
 
 [markup]
