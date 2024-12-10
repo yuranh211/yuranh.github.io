@@ -80,4 +80,7 @@ rssLimit = 5
 [params.twikoo]
 	enable = false
   visitor = true
-  
+
+
+[server]
+browserCommand = "C:/Program Files/Google/Chrome/Application/chrome.exe"
