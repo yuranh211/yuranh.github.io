@@ -22,7 +22,7 @@ rssLimit = 5
   url="/posts/blog/"
   weight="1"
   [[menu.main]]
-  name="评论"
+  name="知识库"
   url="/posts/argue/"
   weight="2"
   [[menu.main]]
