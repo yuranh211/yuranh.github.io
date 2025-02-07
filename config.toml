@@ -57,7 +57,7 @@ rssLimit = 5
   ReadMore = "阅读全文"
   
   description = "我要话要说！"
-	keywords = "博客、评论"
+	keywords = "博客、知识库"
  
 
 [markup]
