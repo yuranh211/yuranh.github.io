@@ -18,11 +18,11 @@ rssLimit = 5
 
 [menu]
   [[menu.main]]
-  name="博客"
+  name="朝花夕拾"
   url="/posts/blog/"
   weight="1"
   [[menu.main]]
-  name="知识库"
+  name="沉默的大多数"
   url="/posts/argue/"
   weight="2"
   [[menu.main]]
